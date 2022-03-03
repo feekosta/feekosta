@@ -43,8 +43,8 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p><img src="https://github-readme-stats-kexhf2wvh-feekosta.vercel.app/api?username=feekosta&show_icons=true&custom_title=Felipe Costa's Github Stats&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&" alt="feekosta" /></p>
+<!-- <p><img src="https://github-readme-stats-kexhf2wvh-feekosta.vercel.app/api?username=feekosta&show_icons=true&custom_title=Felipe Costa's Github Stats&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&" alt="feekosta" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=feekosta" alt="feekosta" /></p>
-<p><img src="https://github-readme-stats-kexhf2wvh-feekosta.vercel.app/api/top-langs?username=feekosta&show_icons=true&card_width=450&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&langs_count=10&custom_title=Most Used Languages In My Public Projects" alt="feekosta" /></p>
+<p><img src="https://github-readme-stats-kexhf2wvh-feekosta.vercel.app/api/top-langs?username=feekosta&show_icons=true&card_width=450&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&langs_count=10&custom_title=Most Used Languages In My Public Projects" alt="feekosta" /></p> -->
 
 </div>
